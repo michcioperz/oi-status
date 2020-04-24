@@ -1,0 +1,7 @@
+<div class="contain" style="padding-top: 0; padding-bottom: 0">
+<span class="language-selector">
+  {{ range .Translations }}
+  <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+  {{ end }}
+</span>
+</div>

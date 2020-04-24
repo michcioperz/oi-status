@@ -82,25 +82,29 @@ defaultContentLanguage: pl
 
 languages:
   pl:
+    languageName: Polski
     title: Komitet Techniczny Olimpiady Informatycznej
     weight: 1
     params:
       categories:
         - name: Publiczne usługi
           untitled: true
+        - name: Strony informacyjne
         - name: Rozwój oprogramowania
           description: Usługi służące rozwojowi oprogramowania SIO2
           closed: true
         - name: Usługi wewnętrzne
-          description: Wewnętrzna infrastruktura zespołu technicznego
+          description: Wewnętrzne narzędzia OI
           closed: true
       systems:
         - name: sio2.mimuw.edu.pl
           category: Publiczne usługi
         - name: Szkopuł
           category: Publiczne usługi
+        - name: MAIN2
+          category: Publiczne usługi
         - name: Sinol3
-          category: Rozwój oprogramowania
+          category: Usługi wewnętrzne
         - name: JIRA
           category: Rozwój oprogramowania
         - name: Gerrit
@@ -109,8 +113,15 @@ languages:
           category: Rozwój oprogramowania
         - name: Zulip
           category: Usługi wewnętrzne
+        - name: oi.edu.pl
+          category: Strony informacyjne
+        - name: oij.edu.pl
+          category: Strony informacyjne
+        - name: potyczki.mimuw.edu.pl
+          category: Strony informacyjne
   en:
     title: Technical Committee of Polish Olympiad in Informatics
+    languageName: English
     weight: 2
     taxonomies:
       affected: affected
@@ -119,6 +130,7 @@ languages:
       categories:
         - name: Public services
           untitled: true
+        - name: Informational websites
         - name: Software development
           closed: true
         - name: Internal services
@@ -128,8 +140,10 @@ languages:
           category: Public services
         - name: Szkopuł
           category: Public services
+        - name: MAIN2
+          category: Public services
         - name: Sinol3
-          category: Software development
+          category: Internal services
         - name: JIRA
           category: Software development
         - name: Gerrit
@@ -138,6 +152,12 @@ languages:
           category: Software development
         - name: Zulip
           category: Internal services
+        - name: oi.edu.pl
+          category: Informational websites
+        - name: oij.edu.pl
+          category: Informational websites
+        - name: potyczki.mimuw.edu.pl
+          category: Informational websites
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
@@ -268,6 +288,9 @@ params:
   # Default: false
   # BOOLEAN; `true`, `false`
   disableComplexCalculations: false
+
+
+  enableCustomHTML: true
 
   # Incident posts shown
   # in one page
