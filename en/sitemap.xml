@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oi-status.algory.tm.pl/en/affected/</loc>
+    <loc>https://michcioperz.github.io/oi-status/en/affected/</loc>
   </url>
   
   <url>
-    <loc>https://oi-status.algory.tm.pl/en/</loc>
+    <loc>https://michcioperz.github.io/oi-status/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://oi-status.algory.tm.pl/"
+                href="https://michcioperz.github.io/oi-status/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://oi-status.algory.tm.pl/en/"
+                href="https://michcioperz.github.io/oi-status/en/"
                 />
   </url>
   
