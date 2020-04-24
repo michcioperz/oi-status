@@ -11,7 +11,7 @@
   "languageCodeHTML": "pl",
   "languageCode": "pl",
   "baseURL": "https://olimpiada.github.io/oi-status", 
-  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "description": "Monitorujemy status naszych usług. W razie utrudnień będziemy informować tutaj.",
   "logo": "https://olimpiada.github.io/oi-status/oi-broken.png",
   "categories": [
     
@@ -103,7 +103,7 @@
 
   
   "buildDate": "2020-04-24",
-  "buildTime": "13:11",
+  "buildTime": "13:14",
   "buildTimezone": "UTC",
   "summaryStatus":
   
