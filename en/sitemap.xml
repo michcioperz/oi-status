@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://status.sio2project.mimuw.edu.pl/en/affected/</loc>
+    <loc>https://oi-status.algory.tm.pl/en/affected/</loc>
   </url>
   
   <url>
-    <loc>https://status.sio2project.mimuw.edu.pl/en/</loc>
+    <loc>https://oi-status.algory.tm.pl/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://status.sio2project.mimuw.edu.pl/"
+                href="https://oi-status.algory.tm.pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://status.sio2project.mimuw.edu.pl/en/"
+                href="https://oi-status.algory.tm.pl/en/"
                 />
   </url>
   

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dotknięte on Komitet Techniczny Olimpiady Informatycznej</title>
-    <link>https://status.sio2project.mimuw.edu.pl/dotkni%C4%99te/</link>
+    <link>https://oi-status.algory.tm.pl/dotkni%C4%99te/</link>
     <description>Recent content in Dotknięte on Komitet Techniczny Olimpiady Informatycznej</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     
-	<atom:link href="https://status.sio2project.mimuw.edu.pl/dotkni%C4%99te/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oi-status.algory.tm.pl/dotkni%C4%99te/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issues on Komitet Techniczny Olimpiady Informatycznej</title>
-    <link>https://status.sio2project.mimuw.edu.pl/issues/</link>
+    <link>https://oi-status.algory.tm.pl/issues/</link>
     <description>Recent content in Issues on Komitet Techniczny Olimpiady Informatycznej</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <lastBuildDate>Sun, 12 Apr 2020 04:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://status.sio2project.mimuw.edu.pl/issues/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oi-status.algory.tm.pl/issues/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sinol3: Awaria CI</title>
-      <link>https://status.sio2project.mimuw.edu.pl/issues/2020-04-12-sinol3-ci/</link>
+      <link>https://oi-status.algory.tm.pl/issues/2020-04-12-sinol3-ci/</link>
       <pubDate>Sun, 12 Apr 2020 04:00:00 +0000</pubDate>
       
-      <guid>https://status.sio2project.mimuw.edu.pl/issues/2020-04-12-sinol3-ci/</guid>
+      <guid>https://oi-status.algory.tm.pl/issues/2020-04-12-sinol3-ci/</guid>
       <description>Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.</description>
     </item>
     

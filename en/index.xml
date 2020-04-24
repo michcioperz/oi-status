@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Committee of Polish Olympiad in Informatics</title>
-    <link>https://status.sio2project.mimuw.edu.pl/en/</link>
+    <link>https://oi-status.algory.tm.pl/en/</link>
     <description>Recent content on Technical Committee of Polish Olympiad in Informatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     
-	<atom:link href="https://status.sio2project.mimuw.edu.pl/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oi-status.algory.tm.pl/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
