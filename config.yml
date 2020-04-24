@@ -149,7 +149,7 @@ languages:
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://status.sio2project.mimuw.edu.pl
+baseURL: https://oi-status.algory.tm.pl
 
 ############################################################
 # +------------------------------------------------------+ #
