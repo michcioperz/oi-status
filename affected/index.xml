@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://olimpiada.github.io/oi-status"/>
+    <title>Affected on Komitet Techniczny Olimpiady Informatycznej</title>
+    <link>https://olimpiada.github.io/oi-status/affected/</link>
+    <description>Historia zdarzeń</description>
+    <generator>github.com/cstate</generator>
+    <language>pl</language>
+    
+    <lastBuildDate>2020-04-12T04:00:00+00:00</lastBuildDate>
+    <updated>2020-04-12T04:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://olimpiada.github.io/oi-status/affected/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Sinol3</title>
+        <link>https://olimpiada.github.io/oi-status/affected/sinol3/</link>
+        <pubDate>Sun, 12 Apr 2020 04:00:00 +0000</pubDate>
+        <guid>https://olimpiada.github.io/oi-status/affected/sinol3/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>MAIN2</title>
+        <link>https://olimpiada.github.io/oi-status/affected/main2/</link>
+        <pubDate>Tue, 14 Jan 2020 14:45:00 +0000</pubDate>
+        <guid>https://olimpiada.github.io/oi-status/affected/main2/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,16 @@
   <url>
     <loc>https://olimpiada.github.io/oi-status/en/affected/</loc>
     <lastmod>2020-01-14T14:45:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/affected/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/affected/"
+                />
   </url>
   
   <url>
@@ -40,6 +50,16 @@
   <url>
     <loc>https://olimpiada.github.io/oi-status/en/affected/main2/</loc>
     <lastmod>2020-01-14T14:45:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/affected/main2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/affected/main2/"
+                />
   </url>
   
   <url>
