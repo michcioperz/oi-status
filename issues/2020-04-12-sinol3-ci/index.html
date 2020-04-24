@@ -368,6 +368,9 @@
     
     </style>
     
+      
+
+    
   </head>
 
 
@@ -494,7 +497,7 @@
 
   if (hasClass(document.querySelector('body'), 'status-homepage')) {
     var lastUpdated = document.querySelector('.summary__date');
-    lastUpdated.innerHTML = 'Ostatnie sprawdzenie przed chwilą';
+    lastUpdated.innerHTML = 'Ostatnie odświeżenie przed chwilą';
 
     var lastUpdate = new Date();
 
@@ -529,7 +532,7 @@
 
   window.setInterval(function() {
     if (hasClass(document.querySelector('body'), 'status-homepage')) {
-      lastUpdated.innerHTML = 'Ostatnie sprawdzenie ' + timeSince(lastUpdate) + ' temu';
+      lastUpdated.innerHTML = 'Ostatnie odświeżenie ' + timeSince(lastUpdate) + ' temu';
 
       
       if (lastUpdate > 290000) {
@@ -543,6 +546,9 @@
 
 
     
+  
+
+
 
 <div class="footer">
   <div class="contain">
@@ -571,6 +577,9 @@
     </p>
   </div>
 </div>
+
+
+  
 
 
 

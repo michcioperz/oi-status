@@ -367,6 +367,9 @@
     
     </style>
     
+      
+
+    
   </head>
 
 
@@ -377,20 +380,31 @@
 
 
 
-  <body class="status-homepage status-ok ">
+  <body class="status-homepage status-notice ">
     
+  
+
+
 
 
 <div class="header">
   <div class="contain">
-    <a href="/" class="header__logo header__logo--small">
+    <a href="https://michcioperz.github.io/oi-status/" class="header__logo header__logo--small">
       
-        <img src="/oi-broken.png" alt="Komitet Techniczny Olimpiady Informatycznej">
+        
+        <img src="https://michcioperz.github.io/oi-status/oi-broken.29aa6044f9e7ecf246dc71d8ad45839c174f902c6bc1356ea1727ed45aa577db.png" alt="Komitet Techniczny Olimpiady Informatycznej">
           
     </a>
   </div>
 </div>
 
+
+
+  <div class="contain" style="padding-top: 0; padding-bottom: 0">
+<span class="language-selector">
+  
+</span>
+</div>
 
 
 
@@ -448,7 +462,7 @@
 
   if (hasClass(document.querySelector('body'), 'status-homepage')) {
     var lastUpdated = document.querySelector('.summary__date');
-    lastUpdated.innerHTML = 'Ostatnie sprawdzenie przed chwilą';
+    lastUpdated.innerHTML = 'Ostatnie odświeżenie przed chwilą';
 
     var lastUpdate = new Date();
 
@@ -483,7 +497,7 @@
 
   window.setInterval(function() {
     if (hasClass(document.querySelector('body'), 'status-homepage')) {
-      lastUpdated.innerHTML = 'Ostatnie sprawdzenie ' + timeSince(lastUpdate) + ' temu';
+      lastUpdated.innerHTML = 'Ostatnie odświeżenie ' + timeSince(lastUpdate) + ' temu';
 
       
       if (lastUpdate > 290000) {
@@ -497,6 +511,9 @@
 
 
     
+  
+
+
 
 <div class="footer">
   <div class="contain">
@@ -525,6 +542,9 @@
     </p>
   </div>
 </div>
+
+
+  
 
 
 

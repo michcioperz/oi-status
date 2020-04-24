@@ -12,12 +12,18 @@
   "languageCode": "en",
   "baseURL": "https://michcioperz.github.io/oi-status", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "logo": "https://michcioperz.github.io/oi-broken.png",
+  "logo": "https://michcioperz.github.io/oi-status/oi-broken.png",
   "categories": [
     
       {
         "name": "Public services",
         "hideTitle": true,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Informational websites",
+        "hideTitle": false,
         "closedByDefault": false
       }
     ,
@@ -47,8 +53,13 @@
       }
     ,
       {
+        "name": "MAIN2",
+        "category": "Public services"
+      }
+    ,
+      {
         "name": "Sinol3",
-        "category": "Software development"
+        "category": "Internal services"
       }
     ,
       {
@@ -70,17 +81,32 @@
         "name": "Zulip",
         "category": "Internal services"
       }
+    ,
+      {
+        "name": "oi.edu.pl",
+        "category": "Informational websites"
+      }
+    ,
+      {
+        "name": "oij.edu.pl",
+        "category": "Informational websites"
+      }
+    ,
+      {
+        "name": "potyczki.mimuw.edu.pl",
+        "category": "Informational websites"
+      }
     
   ],
 
   
   "buildDate": "2020-04-24",
-  "buildTime": "11:45",
+  "buildTime": "12:50",
   "buildTimezone": "UTC",
   "summaryStatus":
   
   
-    "ok",
+    "notice",
   
   "colorBrand": "#0a0c0f",
   "colorOk": "#008000",

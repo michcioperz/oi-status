@@ -5,6 +5,16 @@
   <url>
     <loc>https://michcioperz.github.io/oi-status/issues/</loc>
     <lastmod>2020-04-12T04:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://michcioperz.github.io/oi-status/en/issues/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://michcioperz.github.io/oi-status/issues/"
+                />
   </url>
   
   <url>
@@ -25,6 +35,21 @@
   <url>
     <loc>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</loc>
     <lastmod>2020-04-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/</loc>
+    <lastmod>2020-01-14T14:45:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://michcioperz.github.io/oi-status/en/issues/2020-main2-account-registration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/"
+                />
   </url>
   
   <url>

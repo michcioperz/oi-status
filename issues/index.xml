@@ -26,5 +26,16 @@
 </content>
       </item>
     
+      <item>
+        <title>Utrudniona rejestracja na MAIN2</title>
+        <link>https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/</link>
+        <pubDate>Tue, 14 Jan 2020 14:45:00 +0000</pubDate>
+        <guid>https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/</guid>
+        <category></category>
+        <description>Ze względów technicznych musieliśmy wyłączyć rejestrację do portalu. Osoby, które chciałyby się mimo wszystko zarejestrować, prosimy o wysłanie maila na adres olimpiada@oi.edu.pl z podaniem imienia, nazwiska, adresu e-mail i preferowanego loginu. Przepraszamy za niedogodności.</description>
+        <content type="html">&lt;p&gt;Ze względów technicznych musieliśmy wyłączyć rejestrację do portalu. Osoby, które chciałyby się mimo wszystko zarejestrować, prosimy o wysłanie maila na adres &lt;a href=&#34;mailto:olimpiada@oi.edu.pl&#34;&gt;olimpiada@oi.edu.pl&lt;/a&gt; z podaniem imienia, nazwiska, adresu e-mail i preferowanego loginu. Przepraszamy za niedogodności.&lt;/p&gt;
+</content>
+      </item>
+    
   </channel>
 </rss>

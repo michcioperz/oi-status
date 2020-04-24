@@ -12,12 +12,18 @@
   "languageCode": "pl",
   "baseURL": "https://michcioperz.github.io/oi-status", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "logo": "https://michcioperz.github.io/oi-broken.png",
+  "logo": "https://michcioperz.github.io/oi-status/oi-broken.png",
   "categories": [
     
       {
         "name": "Publiczne usługi",
         "hideTitle": true,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Strony informacyjne",
+        "hideTitle": false,
         "closedByDefault": false
       }
     ,
@@ -30,7 +36,7 @@
     ,
       {
         "name": "Usługi wewnętrzne",
-        "description": "Wewnętrzna infrastruktura zespołu technicznego",
+        "description": "Wewnętrzne narzędzia OI",
         "hideTitle": false,
         "closedByDefault": true
       }
@@ -49,8 +55,13 @@
       }
     ,
       {
+        "name": "MAIN2",
+        "category": "Publiczne usługi"
+      }
+    ,
+      {
         "name": "Sinol3",
-        "category": "Rozwój oprogramowania"
+        "category": "Usługi wewnętrzne"
       }
     ,
       {
@@ -72,17 +83,32 @@
         "name": "Zulip",
         "category": "Usługi wewnętrzne"
       }
+    ,
+      {
+        "name": "oi.edu.pl",
+        "category": "Strony informacyjne"
+      }
+    ,
+      {
+        "name": "oij.edu.pl",
+        "category": "Strony informacyjne"
+      }
+    ,
+      {
+        "name": "potyczki.mimuw.edu.pl",
+        "category": "Strony informacyjne"
+      }
     
   ],
 
   
   "buildDate": "2020-04-24",
-  "buildTime": "11:45",
+  "buildTime": "12:50",
   "buildTimezone": "UTC",
   "summaryStatus":
   
   
-    "ok",
+    "notice",
   
   "colorBrand": "#0a0c0f",
   "colorOk": "#008000",

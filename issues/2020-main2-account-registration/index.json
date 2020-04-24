@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Utrudniona rejestracja na MAIN2",
+  "createdAt": "2020-01-14 14:45:00 +0000 UTC",
+  "permalink": "https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/",
+  "severity": "notice",
+  "resolved": "false",
+  "informational": "<no value>",
+  "resolvedAt": "<no value>",
+  "affected": ["MAIN2"],
+  "filename": "2020-main2-account-registration.md",
+  "body": "\u003cp\u003eZe względów technicznych musieliśmy wyłączyć rejestrację do portalu. Osoby, które chciałyby się mimo wszystko zarejestrować, prosimy o wysłanie maila na adres \u003ca href=\"mailto:olimpiada@oi.edu.pl\"\u003eolimpiada@oi.edu.pl\u003c/a\u003e z podaniem imienia, nazwiska, adresu e-mail i preferowanego loginu. Przepraszamy za niedogodności.\u003c/p\u003e\n"
+}
