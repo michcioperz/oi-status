@@ -86,6 +86,7 @@ languages:
     title: Komitet Techniczny Olimpiady Informatycznej
     weight: 1
     params:
+      description: Monitorujemy status naszych usług. W razie utrudnień będziemy informować tutaj.
       categories:
         - name: Publiczne usługi
           untitled: true
@@ -126,6 +127,7 @@ languages:
     taxonomies:
       affected: affected
     params:
+      description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
       dateFormat: 2006-01-02, 15:04
       categories:
         - name: Public services
@@ -263,7 +265,6 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
 
   # Tabs on homepage
   # Uncomment to enable.
