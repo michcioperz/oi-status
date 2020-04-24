@@ -10,9 +10,9 @@
   "title": "Technical Committee of Polish Olympiad in Informatics",
   "languageCodeHTML": "pl",
   "languageCode": "en",
-  "baseURL": "https://michcioperz.github.io/oi-status", 
+  "baseURL": "https://olimpiada.github.io/oi-status", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "logo": "https://michcioperz.github.io/oi-status/oi-broken.png",
+  "logo": "https://olimpiada.github.io/oi-status/oi-broken.png",
   "categories": [
     
       {
@@ -101,7 +101,7 @@
 
   
   "buildDate": "2020-04-24",
-  "buildTime": "12:50",
+  "buildTime": "12:58",
   "buildTimezone": "UTC",
   "summaryStatus":
   

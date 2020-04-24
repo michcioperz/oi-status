@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://michcioperz.github.io/oi-status"/>
+    <link rel="alternate" type="text/html" href="https://olimpiada.github.io/oi-status"/>
     <title>Issues on Komitet Techniczny Olimpiady Informatycznej</title>
-    <link>https://michcioperz.github.io/oi-status/issues/</link>
+    <link>https://olimpiada.github.io/oi-status/issues/</link>
     <description>Historia zdarzeń</description>
     <generator>github.com/cstate</generator>
     <language>pl</language>
@@ -12,14 +12,14 @@
     
     
     
-      <atom:link href="https://michcioperz.github.io/oi-status/issues/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://olimpiada.github.io/oi-status/issues/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>[Rozwiązane] Sinol3: Awaria CI</title>
-        <link>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</link>
+        <link>https://olimpiada.github.io/oi-status/issues/2020-04-12-sinol3-ci/</link>
         <pubDate>Sun, 12 Apr 2020 04:00:00 +0000</pubDate>
-        <guid>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</guid>
+        <guid>https://olimpiada.github.io/oi-status/issues/2020-04-12-sinol3-ci/</guid>
         <category>2020-04-13 09:30:00</category>
         <description>Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.</description>
         <content type="html">&lt;p&gt;Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.&lt;/p&gt;
@@ -28,9 +28,9 @@
     
       <item>
         <title>Utrudniona rejestracja na MAIN2</title>
-        <link>https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/</link>
+        <link>https://olimpiada.github.io/oi-status/issues/2020-main2-account-registration/</link>
         <pubDate>Tue, 14 Jan 2020 14:45:00 +0000</pubDate>
-        <guid>https://michcioperz.github.io/oi-status/issues/2020-main2-account-registration/</guid>
+        <guid>https://olimpiada.github.io/oi-status/issues/2020-main2-account-registration/</guid>
         <category></category>
         <description>Ze względów technicznych musieliśmy wyłączyć rejestrację do portalu. Osoby, które chciałyby się mimo wszystko zarejestrować, prosimy o wysłanie maila na adres olimpiada@oi.edu.pl z podaniem imienia, nazwiska, adresu e-mail i preferowanego loginu. Przepraszamy za niedogodności.</description>
         <content type="html">&lt;p&gt;Ze względów technicznych musieliśmy wyłączyć rejestrację do portalu. Osoby, które chciałyby się mimo wszystko zarejestrować, prosimy o wysłanie maila na adres &lt;a href=&#34;mailto:olimpiada@oi.edu.pl&#34;&gt;olimpiada@oi.edu.pl&lt;/a&gt; z podaniem imienia, nazwiska, adresu e-mail i preferowanego loginu. Przepraszamy za niedogodności.&lt;/p&gt;

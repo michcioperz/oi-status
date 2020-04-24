@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://michcioperz.github.io/oi-status"/>
+    <link rel="alternate" type="text/html" href="https://olimpiada.github.io/oi-status"/>
     <title>Affected on Technical Committee of Polish Olympiad in Informatics</title>
-    <link>https://michcioperz.github.io/oi-status/en/affected/</link>
+    <link>https://olimpiada.github.io/oi-status/en/affected/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>pl</language>
@@ -12,14 +12,14 @@
     
     
     
-      <atom:link href="https://michcioperz.github.io/oi-status/en/affected/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://olimpiada.github.io/oi-status/en/affected/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>MAIN2</title>
-        <link>https://michcioperz.github.io/oi-status/en/affected/main2/</link>
+        <link>https://olimpiada.github.io/oi-status/en/affected/main2/</link>
         <pubDate>Tue, 14 Jan 2020 14:45:00 +0000</pubDate>
-        <guid>https://michcioperz.github.io/oi-status/en/affected/main2/</guid>
+        <guid>https://olimpiada.github.io/oi-status/en/affected/main2/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://michcioperz.github.io/oi-status"/>
+    <link rel="alternate" type="text/html" href="https://olimpiada.github.io/oi-status"/>
     <title>Issues on Technical Committee of Polish Olympiad in Informatics</title>
-    <link>https://michcioperz.github.io/oi-status/en/issues/</link>
+    <link>https://olimpiada.github.io/oi-status/en/issues/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>pl</language>
@@ -12,14 +12,14 @@
     
     
     
-      <atom:link href="https://michcioperz.github.io/oi-status/en/issues/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://olimpiada.github.io/oi-status/en/issues/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Email contact required for MAIN2 signups</title>
-        <link>https://michcioperz.github.io/oi-status/en/issues/2020-main2-account-registration/</link>
+        <link>https://olimpiada.github.io/oi-status/en/issues/2020-main2-account-registration/</link>
         <pubDate>Tue, 14 Jan 2020 14:45:00 +0000</pubDate>
-        <guid>https://michcioperz.github.io/oi-status/en/issues/2020-main2-account-registration/</guid>
+        <guid>https://olimpiada.github.io/oi-status/en/issues/2020-main2-account-registration/</guid>
         <category></category>
         <description>Due to technical reasons we have disabled signups on MAIN2. If you still need an account, send an email to olimpiada@oi.edu.pl including your first and last name, email address and preferred username. We apologize for the difficulties.</description>
         <content type="html">&lt;p&gt;Due to technical reasons we have disabled signups on MAIN2. If you still need an account, send an email to &lt;a href=&#34;mailto:olimpiada@oi.edu.pl&#34;&gt;olimpiada@oi.edu.pl&lt;/a&gt; including your first and last name, email address and preferred username. We apologize for the difficulties.&lt;/p&gt;

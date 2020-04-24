@@ -1,15 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://michcioperz.github.io/oi-status"/>
+    <link rel="alternate" type="text/html" href="https://olimpiada.github.io/oi-status"/>
     <title>Dotknięte on Komitet Techniczny Olimpiady Informatycznej</title>
-    <link>https://michcioperz.github.io/oi-status/dotkni%C4%99te/</link>
+    <link>https://olimpiada.github.io/oi-status/dotkni%C4%99te/</link>
     <description>Historia zdarzeń</description>
     <generator>github.com/cstate</generator>
     <language>pl</language>
     
     
     
-      <atom:link href="https://michcioperz.github.io/oi-status/dotkni%C4%99te/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://olimpiada.github.io/oi-status/dotkni%C4%99te/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
