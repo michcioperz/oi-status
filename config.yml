@@ -169,7 +169,7 @@ languages:
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://michcioperz.github.io/oi-status
+baseURL: https://olimpiada.github.io/oi-status
 
 ############################################################
 # +------------------------------------------------------+ #
