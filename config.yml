@@ -365,7 +365,7 @@ theme: cstate
 preserveTaxonomyNames: true
 
 taxonomies:
-  affected: dotknięte 
+  affected: affected 
 
 outputs:
   page:
