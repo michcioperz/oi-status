@@ -1,0 +1,95 @@
+
+
+
+
+
+{
+  "is": "index",
+  "cStateVersion": "4.1.1",
+  "apiVersion": "1.0.0",
+  "title": "Komitet Techniczny Olimpiady Informatycznej",
+  "languageCodeHTML": "pl",
+  "languageCode": "pl",
+  "baseURL": "https://michcioperz.github.io/oi-status", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "logo": "https://michcioperz.github.io/oi-broken.png",
+  "categories": [
+    
+      {
+        "name": "Publiczne usługi",
+        "hideTitle": true,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Rozwój oprogramowania",
+        "description": "Usługi służące rozwojowi oprogramowania SIO2",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Usługi wewnętrzne",
+        "description": "Wewnętrzna infrastruktura zespołu technicznego",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "sio2.mimuw.edu.pl",
+        "category": "Publiczne usługi"
+      }
+    ,
+      {
+        "name": "Szkopuł",
+        "category": "Publiczne usługi"
+      }
+    ,
+      {
+        "name": "Sinol3",
+        "category": "Rozwój oprogramowania"
+      }
+    ,
+      {
+        "name": "JIRA",
+        "category": "Rozwój oprogramowania"
+      }
+    ,
+      {
+        "name": "Gerrit",
+        "category": "Rozwój oprogramowania"
+      }
+    ,
+      {
+        "name": "Jenkins",
+        "category": "Rozwój oprogramowania"
+      }
+    ,
+      {
+        "name": "Zulip",
+        "category": "Usługi wewnętrzne"
+      }
+    
+  ],
+
+  
+  "buildDate": "2020-04-24",
+  "buildTime": "11:45",
+  "buildTimezone": "UTC",
+  "summaryStatus":
+  
+  
+    "ok",
+  
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+
+  "googleAnalytics": "UA-00000000-1"
+}

@@ -1,0 +1,93 @@
+
+
+
+
+
+{
+  "is": "index",
+  "cStateVersion": "4.1.1",
+  "apiVersion": "1.0.0",
+  "title": "Technical Committee of Polish Olympiad in Informatics",
+  "languageCodeHTML": "pl",
+  "languageCode": "en",
+  "baseURL": "https://michcioperz.github.io/oi-status", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "logo": "https://michcioperz.github.io/oi-broken.png",
+  "categories": [
+    
+      {
+        "name": "Public services",
+        "hideTitle": true,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Software development",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Internal services",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "sio2.mimuw.edu.pl",
+        "category": "Public services"
+      }
+    ,
+      {
+        "name": "Szkopuł",
+        "category": "Public services"
+      }
+    ,
+      {
+        "name": "Sinol3",
+        "category": "Software development"
+      }
+    ,
+      {
+        "name": "JIRA",
+        "category": "Software development"
+      }
+    ,
+      {
+        "name": "Gerrit",
+        "category": "Software development"
+      }
+    ,
+      {
+        "name": "Jenkins",
+        "category": "Software development"
+      }
+    ,
+      {
+        "name": "Zulip",
+        "category": "Internal services"
+      }
+    
+  ],
+
+  
+  "buildDate": "2020-04-24",
+  "buildTime": "11:45",
+  "buildTimezone": "UTC",
+  "summaryStatus":
+  
+  
+    "ok",
+  
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+
+  "googleAnalytics": "UA-00000000-1"
+}

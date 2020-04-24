@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <link rel="alternate" type="text/html" href="https://michcioperz.github.io/oi-status"/>
     <title>Issues on Komitet Techniczny Olimpiady Informatycznej</title>
     <link>https://michcioperz.github.io/oi-status/issues/</link>
-    <description>Recent content in Issues on Komitet Techniczny Olimpiady Informatycznej</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Historia zdarzeń</description>
+    <generator>github.com/cstate</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 12 Apr 2020 04:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michcioperz.github.io/oi-status/issues/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>2020-04-12T04:00:00+00:00</lastBuildDate>
+    <updated>2020-04-12T04:00:00+00:00</updated>
     
     
-    <item>
-      <title>Sinol3: Awaria CI</title>
-      <link>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</link>
-      <pubDate>Sun, 12 Apr 2020 04:00:00 +0000</pubDate>
-      
-      <guid>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</guid>
-      <description>Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.</description>
-    </item>
+    
+      <atom:link href="https://michcioperz.github.io/oi-status/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Rozwiązane] Sinol3: Awaria CI</title>
+        <link>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</link>
+        <pubDate>Sun, 12 Apr 2020 04:00:00 +0000</pubDate>
+        <guid>https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/</guid>
+        <category>2020-04-13 09:30:00</category>
+        <description>Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.</description>
+        <content type="html">&lt;p&gt;Nastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.&lt;/p&gt;
+</content>
+      </item>
     
   </channel>
 </rss>

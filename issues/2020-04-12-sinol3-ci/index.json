@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Sinol3: Awaria CI",
+  "createdAt": "2020-04-12 04:00:00 +0000 UTC",
+  "permalink": "https://michcioperz.github.io/oi-status/issues/2020-04-12-sinol3-ci/",
+  "severity": "disrupted",
+  "resolved": "true",
+  "informational": "<no value>",
+  "resolvedAt": "2020-04-13 09:30:00",
+  "affected": ["Sinol3"],
+  "filename": "2020-04-12-sinol3-ci.md",
+  "body": "\u003cp\u003eNastąpiło wyczerpanie przestrzeni dyskowej przeznaczonej na maszynie wykonującej zadania CI, skutkiem czego nie powodził się upload artefaktów z zadań.\u003c/p\u003e\n"
+}
