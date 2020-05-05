@@ -7,13 +7,25 @@
     <generator>github.com/cstate</generator>
     <language>pl</language>
     
-    <lastBuildDate>2020-01-14T14:45:00+00:00</lastBuildDate>
-    <updated>2020-01-14T14:45:00+00:00</updated>
+    <lastBuildDate>2020-05-05T17:50:00+00:00</lastBuildDate>
+    <updated>2020-05-05T17:50:00+00:00</updated>
     
     
     
       <atom:link href="https://olimpiada.github.io/oi-status/en/issues/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>[Resolved] Szkopuł: Maintenance</title>
+        <link>https://olimpiada.github.io/oi-status/en/issues/2020-05-05-szkopul-deploy/</link>
+        <pubDate>Tue, 05 May 2020 17:50:00 +0000</pubDate>
+        <guid>https://olimpiada.github.io/oi-status/en/issues/2020-05-05-szkopul-deploy/</guid>
+        <category>2020-05-05 18:05:00</category>
+        <description>There has been planned downtime in order to deploy new version of the software.</description>
+        <content type="html">&lt;p&gt;There has been planned downtime
+in order to deploy new version of the software.&lt;/p&gt;
+</content>
+      </item>
     
       <item>
         <title>Email contact required for MAIN2 signups</title>

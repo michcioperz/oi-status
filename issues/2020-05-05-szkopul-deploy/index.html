@@ -6,10 +6,10 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <meta name="description" content="We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.">
-    <title>Affected | Technical Committee of Polish Olympiad in Informatics</title>
-    <link rel="canonical" href="https://olimpiada.github.io/oi-status/en/affected/">
-    <link rel="alternate" type="application/rss+xml" href="https://olimpiada.github.io/oi-status/en/affected/index.xml" title="Technical Committee of Polish Olympiad in Informatics" />
+    <meta name="description" content="Nastąpiła planowa przerwa techniczna w celu wdrożenia nowej wersji oprogramowania.">
+    <title>Szkopuł: Przerwa techniczna | Komitet Techniczny Olimpiady Informatycznej</title>
+    <link rel="canonical" href="https://olimpiada.github.io/oi-status/issues/2020-05-05-szkopul-deploy/">
+    <link rel="alternate" type="application/json" href="https://olimpiada.github.io/oi-status/issues/2020-05-05-szkopul-deploy/index.json" title="Komitet Techniczny Olimpiady Informatycznej" />
     <meta name="generator" content="cState v4.1.1 - https://github.com/cstate/cstate">
     <meta name="theme-color" content="#0a0c0f">
     <script>
@@ -375,74 +375,80 @@
 
 
 
-  <body class="default list">
-    <header>
-      <div class="contain">
-        <a href="https://olimpiada.github.io/oi-status">← Go back to <em>Technical Committee of Polish Olympiad in Informatics</em></a>
-        <div class="padding"></div>
-        <div class="padding"></div>
-
-        <h1 class="clean">Affected</h1>
-
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-
-        
-        
-        
-        <p class="bold">
-          <em>
-            
-
-            
-          </em>
-        </p>
-        
 
 
-        <small class="faded">2 entries, newest to oldest</small>
 
-        <div class="padding"></div>
-        <hr class="clean">
-      </div>
-      
-    </header>
 
-    <div class="contain contain--more" id="incidents">
-      
-        
-        
-          
-        
-          
-        
 
-        
-        
-      
-      <div class="padding"></div>
+
+  <body class="issues single">
+    <div class="contain">
+      <a href="https://olimpiada.github.io/oi-status">← Wróć do <em>Komitet Techniczny Olimpiady Informatycznej</em></a>
     </div>
+
+    <div class="contain">
+      
+
+
+
+
+
+
+<div class="article">
+  <h1 class="clean">
+    Szkopuł: Przerwa techniczna
+  </h1>
+
+  <small class="date">
+    
+      05.05.2020, 17:50
+    
+  </small>
+
+  <p><small>
+    
+      <a href="/affected/szkopu%C5%82" class="tag no-underline">Szkopuł</a>
+    
+  </small></p>
+
+  
+  
+  
+  
+
+
+  
+  
+    
+      <div class="ok tooltip">
+        <strong>
+          Rozwiązane po
+
+          
+
+          15m
+          awarii.
+        </strong>
+
+        <span class="tooltip__text">
+          
+            05.05.2020, 18:05
+          
+        </span>
+      </div>
+    
+  
+  
+
+  <hr>
+  <p>Nastąpiła planowa przerwa techniczna
+w celu wdrożenia nowej wersji oprogramowania.</p>
+
+</div>
+<div class="padding"></div>
+
+    </div>
+
 
     <script type="text/javascript">
   
@@ -492,7 +498,7 @@
 
   if (hasClass(document.querySelector('body'), 'status-homepage')) {
     var lastUpdated = document.querySelector('.summary__date');
-    lastUpdated.innerHTML = 'Last checked just now';
+    lastUpdated.innerHTML = 'Ostatnie odświeżenie przed chwilą';
 
     var lastUpdate = new Date();
 
@@ -502,23 +508,23 @@
       var interval = Math.floor(seconds / 31536000);
 
       if (interval > 1) {
-        return interval + ' years';
+        return interval + ' lat';
       }
       interval = Math.floor(seconds / 2592000);
       if (interval > 1) {
-        return interval + ' months';
+        return interval + ' miesięcy';
       }
       interval = Math.floor(seconds / 86400);
       if (interval > 1) {
-        return interval + 'd';
+        return interval + 'dni';
       }
       interval = Math.floor(seconds / 3600);
       if (interval > 1) {
-        return interval + 'h';
+        return interval + 'godz.';
       }
       interval = Math.floor(seconds / 60);
       if (interval > 1) {
-        return interval + ' min';
+        return interval + ' min.';
       }
       return Math.floor(seconds) + 's';
     }
@@ -527,7 +533,7 @@
 
   window.setInterval(function() {
     if (hasClass(document.querySelector('body'), 'status-homepage')) {
-      lastUpdated.innerHTML = 'Last checked ' + timeSince(lastUpdate) + ' ago';
+      lastUpdated.innerHTML = 'Ostatnie odświeżenie ' + timeSince(lastUpdate) + ' temu';
 
       
       if (lastUpdate > 290000) {
@@ -547,27 +553,25 @@
 
 <div class="footer">
   <div class="contain">
-    <p><strong class="bold">&copy; Technical Committee of Polish Olympiad in Informatics, 2020</strong>
-       &nbsp; • &nbsp; <a href="#">Back to top</a>
+    <p><strong class="bold">&copy; Komitet Techniczny Olimpiady Informatycznej, 2020</strong>
+       &nbsp; • &nbsp; <a href="#">Wróć na górę</a>
     </p>
 
-    <p>We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.</p>
+    <p>Monitorujemy status naszych usług. W razie utrudnień będziemy informować tutaj.</p>
 
     
-    <small class="footer__copyright faded">Powered by <a href="https://github.com/cstate/cstate"><b>cState</b></a></small>
+    <small class="footer__copyright faded">Strona napędzana przez <a href="https://github.com/cstate/cstate"><b>cState</b></a></small>
 
     <hr>
 
     <p class="hinted">
       <small>
         ⚡
-        Subscribe via RSS —
+        Zasubskrybuj przez RSS —
         
-          <a href="https://olimpiada.github.io/oi-status/en/index.xml" class="no-underline">to all updates</a>
+          <a href="https://olimpiada.github.io/oi-status/index.xml" class="no-underline">wszystkie aktualizacje</a>
         
         
-        
-          or <a href="https://olimpiada.github.io/oi-status/en/affected/index.xml" class="no-underline">only this feed (Affected)</a>
         
         
       </small>

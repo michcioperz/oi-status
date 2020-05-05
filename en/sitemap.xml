@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://olimpiada.github.io/oi-status/en/affected/</loc>
-    <lastmod>2020-01-14T14:45:00+00:00</lastmod>
+    <lastmod>2020-05-05T17:50:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -14,6 +14,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://olimpiada.github.io/oi-status/en/affected/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://olimpiada.github.io/oi-status/en/issues/</loc>
+    <lastmod>2020-05-05T17:50:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/issues/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/issues/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://olimpiada.github.io/oi-status/en/affected/szkopu%C5%82/</loc>
+    <lastmod>2020-05-05T17:50:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/affected/szkopu%C5%82/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/affected/szkopu%C5%82/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://olimpiada.github.io/oi-status/en/issues/2020-05-05-szkopul-deploy/</loc>
+    <lastmod>2020-05-05T17:50:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/issues/2020-05-05-szkopul-deploy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/issues/2020-05-05-szkopul-deploy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://olimpiada.github.io/oi-status/en/</loc>
+    <lastmod>2020-05-05T17:50:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://olimpiada.github.io/oi-status/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://olimpiada.github.io/oi-status/en/"
                 />
   </url>
   
@@ -33,21 +93,6 @@
   </url>
   
   <url>
-    <loc>https://olimpiada.github.io/oi-status/en/issues/</loc>
-    <lastmod>2020-01-14T14:45:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://olimpiada.github.io/oi-status/issues/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://olimpiada.github.io/oi-status/en/issues/"
-                />
-  </url>
-  
-  <url>
     <loc>https://olimpiada.github.io/oi-status/en/affected/main2/</loc>
     <lastmod>2020-01-14T14:45:00+00:00</lastmod>
     <xhtml:link
@@ -59,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://olimpiada.github.io/oi-status/en/affected/main2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://olimpiada.github.io/oi-status/en/</loc>
-    <lastmod>2020-01-14T14:45:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://olimpiada.github.io/oi-status/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://olimpiada.github.io/oi-status/en/"
                 />
   </url>
   
