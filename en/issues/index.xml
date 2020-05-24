@@ -7,13 +7,24 @@
     <generator>github.com/cstate</generator>
     <language>pl</language>
     
-    <lastBuildDate>2020-05-05T17:50:00+00:00</lastBuildDate>
-    <updated>2020-05-05T17:50:00+00:00</updated>
+    <lastBuildDate>2020-05-24T16:00:00+00:00</lastBuildDate>
+    <updated>2020-05-24T16:00:00+00:00</updated>
     
     
     
       <atom:link href="https://olimpiada.github.io/oi-status/en/issues/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Szkopuł: Software upgrade</title>
+        <link>https://olimpiada.github.io/oi-status/en/issues/2020-05-26-szkopul.deploy/</link>
+        <pubDate>Sun, 24 May 2020 16:00:00 +0000</pubDate>
+        <guid>https://olimpiada.github.io/oi-status/en/issues/2020-05-26-szkopul.deploy/</guid>
+        <category>2020-05-24 20:00:00</category>
+        <description>There will be a planned downtime in order to deploy a new version of the software.</description>
+        <content type="html">&lt;p&gt;There will be a planned downtime in order to deploy a new version of the software.&lt;/p&gt;
+</content>
+      </item>
     
       <item>
         <title>[Resolved] Szkopuł: Maintenance</title>
