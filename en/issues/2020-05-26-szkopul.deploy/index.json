@@ -1,13 +1,13 @@
 {
   "is": "issue",
   "title": "Szkopuł: Software upgrade",
-  "createdAt": "2020-05-24 16:00:00 +0000 UTC",
+  "createdAt": "2020-05-24 17:07:00 +0000 UTC",
   "permalink": "https://olimpiada.github.io/oi-status/en/issues/2020-05-26-szkopul.deploy/",
   "severity": "notice",
-  "resolved": "false",
+  "resolved": "true",
   "informational": "<no value>",
-  "resolvedAt": "2020-05-24 20:00:00",
+  "resolvedAt": "2020-05-24 17:19:00",
   "affected": ["Szkopuł"],
   "filename": "2020-05-26-szkopul.deploy.en.md",
-  "body": "\u003cp\u003eThere will be a planned downtime in order to deploy a new version of the software.\u003c/p\u003e\n"
+  "body": "\u003cp\u003eThere was a planned downtime in order to deploy a new version of the software.\u003c/p\u003e\n"
 }
